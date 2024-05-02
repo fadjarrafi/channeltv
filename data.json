@@ -73,6 +73,30 @@
         "title": "UDP",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
         "url": "udp://239.1.1.1:1234"
+      },
+      {
+        "id": 13,
+        "title": "HTTP",
+        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
+        "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      },
+      {
+        "id": 14,
+        "title": "HTTPS",
+        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },
+      {
+        "id": 15,
+        "title": "HLS",
+        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
+        "url": "http://202.169.224.202/live/nettv.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "UDP",
+        "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
+        "url": "udp://239.1.1.1:1234"
       }
     ]
   }]
