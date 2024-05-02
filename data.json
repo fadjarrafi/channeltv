@@ -24,7 +24,7 @@
         "id": 4,
         "title": "UDP",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
-        "url": "udp://239.1.4.2:1234"
+        "url": "udp://239.1.1.1:1234"
       },
       {
         "id": 5,
@@ -48,7 +48,7 @@
         "id": 8,
         "title": "UDP",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
-        "url": "udp://239.1.4.2:1234"
+        "url": "udp://239.1.1.1:1234"
       },
       {
         "id": 9,
@@ -72,7 +72,7 @@
         "id": 12,
         "title": "UDP",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
-        "url": "udp://239.1.4.2:1234"
+        "url": "udp://239.1.1.1:1234"
       },
       {
         "id": 13,
@@ -96,7 +96,7 @@
         "id": 16,
         "title": "UDP",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
-        "url": "udp://239.1.4.2:1234"
+        "url": "udp://239.1.1.1:1234"
       }
     ]
   }]
