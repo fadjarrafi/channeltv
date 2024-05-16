@@ -1,0 +1,18 @@
+[
+    {
+        "id": 0,
+        "category_name": "Main Course"
+    },
+    {
+        "id": 1,
+        "category_name": "Appetizer"
+    },
+    {
+        "id": 2,
+        "category_name": "Soup"
+    },
+    {
+        "id": 3,
+        "category_name": "Baverages"
+    }
+]
