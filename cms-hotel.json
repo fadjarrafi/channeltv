@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "title": "Cordia",
+        "data_url": "https://aegis.lifemedia.id/iptvchannel/fetch_data.php",
+        "bg_url": "https://aegis.lifemedia.id/iptvchannel/logo/Cinemachi.png"
+    },
+    {
+        "id": 1,
+        "title": "Ramada",
+        "data_url": "https://aegis.lifemedia.id/iptvchannelramada/fetch_data.php",
+        "bg_url": "https://aegis.lifemedia.id/iptvchannelramada/img/wallpaper.jpg"
+    }
+]
