@@ -2,6 +2,8 @@
     {
         "id": 0,
         "category_id": 0,
+        "currency": "IDR",
+        "price": 50000,
         "title": "Lontong Balap",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
         "desc": "lontong balap enak poll"
@@ -9,6 +11,8 @@
     {
         "id": 1,
         "category_id": 1,
+        "currency": "IDR",
+        "price": 50000,
         "title": "Lontong Balap",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
         "desc": "lontong balap enak poll"
@@ -16,6 +20,8 @@
     {
         "id": 2,
         "category_id": 2,
+        "currency": "IDR",
+        "price": 50000,
         "title": "Lontong Balap",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
         "desc": "lontong balap enak poll"
@@ -23,6 +29,8 @@
     {
         "id": 3,
         "category_id": 3,
+        "currency": "IDR",
+        "price": 50000,
         "title": "Lontong Balap",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
         "desc": "lontong balap enak poll"
