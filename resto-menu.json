@@ -6,7 +6,7 @@
         "price": 50000,
         "title": "Lontong Balap",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
-        "desc": "lontong balap enak poll"
+        "desc": "I'm a supporting text. Very Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
         "id": 1,
@@ -15,7 +15,7 @@
         "price": 50000,
         "title": "Lontong Kupang",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
-        "desc": "lontong balap enak poll"
+        "desc": "I'm a supporting text. Very Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
         "id": 2,
@@ -24,7 +24,7 @@
         "price": 50000,
         "title": "Gudeg Yogya",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
-        "desc": "lontong balap enak poll"
+        "desc": "I'm a supporting text. Very Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
         "id": 3,
@@ -33,6 +33,6 @@
         "price": 50000,
         "title": "Soda Gembira",
         "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1200px-NET._sky_blue.svg.png",
-        "desc": "lontong balap enak poll"
+        "desc": "I'm a supporting text. Very Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
 ]
