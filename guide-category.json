@@ -1,0 +1,18 @@
+[
+    {
+        "category_id": 0,
+        "category_name": "FACILITIES"
+    },
+    {
+        "category_id": 1,
+        "category_name": "ACCOMODATION"
+    },
+    {
+        "category_id": 2,
+        "category_name": "EXTENTION NUMBER"
+    },
+    {
+        "category_id": 3,
+        "category_name": "WIFI PASSWORD"
+    }
+]
