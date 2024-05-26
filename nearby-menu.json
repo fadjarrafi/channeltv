@@ -1,0 +1,31 @@
+[
+    {
+        "id": 0,
+        "category_id": 0,
+        "img_url": "http://hospitality.lifemedia.id/cordia/imgresto/breakfast1.jpg",
+        "title": "Grand Indonesia",
+        "desc": "Mall Grand Indonesia"
+    },
+  
+    {
+        "id": 2,
+        "category_id": 1,
+        "img_url": "http://hospitality.lifemedia.id/cordia/imgresto/breakfast1.jpg",
+        "title": "Mall Ambarukmo",
+        "desc": "Mall Ambarukmo"
+    },
+    {
+        "id": 1,
+        "category_id": 0,
+        "img_url": "http://hospitality.lifemedia.id/cordia/imgresto/breakfast1.jpg",
+        "title": "Soto Sampah",
+        "desc": "Soto Sampah"
+    },
+    {
+        "id": 3,
+        "category_id": 1,
+        "img_url": "http://hospitality.lifemedia.id/cordia/imgresto/breakfast1.jpg",
+        "title": "Gudeg widjilan",
+        "desc": "Gudeg widjilan"
+    }
+]
