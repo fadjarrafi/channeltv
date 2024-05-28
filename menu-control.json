@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "title": "Youtube",
+        "isActive": true
+    },
+    {
+        "id": 1,
+        "title": "Netflix",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "title": "Vidio",
+        "isActive": true
+    },
+    {
+        "id": 3,
+        "title": "Hotel Guide",
+        "isActive": true
+    },
+    {
+        "id": 4,
+        "title": "Room Service",
+        "isActive": true
+    },
+    {
+        "id": 5,
+        "title": "Resto",
+        "isActive": true
+    },
+    {
+        "id": 6,
+        "title": "Nearby Destination",
+        "isActive": true
+    }
+]
