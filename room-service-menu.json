@@ -1,0 +1,31 @@
+[
+    {
+        "id": 0,
+        "category_id": 0,
+        "img_url": "http://hospitality.lifemedia.id/cordia/imgresto/breakfast1.jpg",
+        "title": "Conditioner",
+        "desc": "Conditioner"
+    },
+  
+    {
+        "id": 1,
+        "category_id": 0,
+        "img_url": "http://hospitality.lifemedia.id/cordia/imgresto/breakfast1.jpg",
+        "title": "Amenities Spa Line",
+        "desc": "Amenities Spa Line"
+    },
+    {
+        "id": 2,
+        "category_id": 2,
+        "img_url": "http://hospitality.lifemedia.id/cordia/imgresto/breakfast1.jpg",
+        "title": "Gilette",
+        "desc": "Cukur Gilette"
+    },
+    {
+        "id": 3,
+        "category_id": 2,
+        "img_url": "http://hospitality.lifemedia.id/cordia/imgresto/breakfast1.jpg",
+        "title": "Kiwi Black Shoes",
+        "desc": "Kiwi Black Shoes"
+    }
+]
