@@ -22,12 +22,12 @@
     {
         "id": 4,
         "title": "Room Service",
-        "isActive": false
+        "isActive": true
     },
     {
         "id": 5,
         "title": "Resto",
-        "isActive": false
+        "isActive": true
     },
     {
         "id": 6,
