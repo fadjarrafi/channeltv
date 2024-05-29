@@ -32,6 +32,6 @@
     {
         "id": 6,
         "title": "Nearby Destination",
-        "isActive": false
+        "isActive": true
     }
 ]
