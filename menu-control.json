@@ -17,7 +17,7 @@
     {
         "id": 3,
         "title": "Hotel Guide",
-        "isActive": false
+        "isActive": true
     },
     {
         "id": 4,
