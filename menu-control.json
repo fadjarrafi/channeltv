@@ -27,11 +27,11 @@
     {
         "id": 5,
         "title": "Resto",
-        "isActive": false
+        "isActive": true
     },
     {
         "id": 6,
         "title": "Nearby Destination",
-        "isActive": false
+        "isActive": true
     }
 ]
