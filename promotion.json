@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "title": "promotion 1",
+        "data_url": "https://raw.githubusercontent.com/fadjarrafi/channeltv/main/sale1.jpg"
+    },
+    {
+        "id": 1,
+        "title": "promotion 2",
+        "data_url": "https://raw.githubusercontent.com/fadjarrafi/channeltv/main/sale2.jpg"
+    },
+    {
+        "id": 2,
+        "title": "promotion 3",
+        "data_url": "https://raw.githubusercontent.com/fadjarrafi/channeltv/main/sale3.jpg"
+    }
+]
